@@ -17,8 +17,11 @@ Scikit-learn (for the machine learning model)
 
 # Setup Instructions:-
 1)Clone the repository: git clone https://github.com/your-username/ML-PROJECT-CAR-PRICE-PREDICTION-MODEL.git
+
 2)Navigate to the project folder: cd your-repository-name
+
 3)Install dependencies: pip install -r requirements.txt
+
 4)Run the app: streamlit run app.py
 
 # How to Use:-
