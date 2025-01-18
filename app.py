@@ -29,7 +29,7 @@ model = pkl.load(open('linear_regression_model.pkl', 'rb'))
 st.header('CAR PRICE PREDICTION MODEL ALONG WITH TAX CALCULATIONS')
 
 # Load car data
-car_data = pd.read_csv('C:/Users/ASUS/Documents/car_prediction_data.csv')
+car_data = pd.read_csv('car_prediction_data.csv')
 car_data['Car_Name'] = car_data['Car_Name'].apply(lambda x: x.split(' ')[0])
 
 # User input fields
