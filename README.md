@@ -23,7 +23,9 @@ Scikit-learn (for the machine learning model)
 
 # How to Use:-
 1)Select the car's brand, fuel type, seller type, transmission type, and owner type using the dropdown menus.
+
 2)Use the sliders to set the car's present price and kilometers driven.
+
 3)Click Predict to get the estimated selling price and tax.
 
 # File Structure:-
