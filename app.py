@@ -2,6 +2,7 @@ import numpy as np
 import pandas as pd
 import pickle as pkl
 import streamlit as st
+import sklearn as sk
 
 # Streamlit styles for background color
 st.markdown(
