@@ -17,9 +17,9 @@ Scikit-learn (for the machine learning model)
 
 # Setup Instructions:-
 1)Clone the repository: git clone https://github.com/your-username/ML-PROJECT-CAR-PRICE-PREDICTION-MODEL.git
-Navigate to the project folder: cd your-repository-name
-Install dependencies: pip install -r requirements.txt
-Run the app: streamlit run app.py
+2)Navigate to the project folder: cd your-repository-name
+3)Install dependencies: pip install -r requirements.txt
+4)Run the app: streamlit run app.py
 
 # How to Use:-
 1)Select the car's brand, fuel type, seller type, transmission type, and owner type using the dropdown menus.
@@ -28,8 +28,11 @@ Run the app: streamlit run app.py
 
 # File Structure:-
 1)app.py: Main Streamlit app code.
+
 2)linear_regression_model.pkl: Pre-trained machine learning model for prediction.
+
 3)car_prediction_data.csv: Dataset used for encoding and dropdowns.
+
 4)requirements.txt: List of dependencies.
 
 # Deployment:-
