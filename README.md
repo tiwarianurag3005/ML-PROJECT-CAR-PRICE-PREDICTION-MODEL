@@ -27,10 +27,10 @@ Run the app: streamlit run app.py
 3)Click Predict to get the estimated selling price and tax.
 
 # File Structure:-
->>app.py: Main Streamlit app code.
->>linear_regression_model.pkl: Pre-trained machine learning model for prediction.
->>car_prediction_data.csv: Dataset used for encoding and dropdowns.
->>requirements.txt: List of dependencies.
+1)app.py: Main Streamlit app code.
+2)linear_regression_model.pkl: Pre-trained machine learning model for prediction.
+3)car_prediction_data.csv: Dataset used for encoding and dropdowns.
+4)requirements.txt: List of dependencies.
 
 # Deployment:-
 This app is deployed on Streamlit Community Cloud for easy access. To deploy, push your code to a GitHub repository and configure the app on Streamlit Community Cloud.
